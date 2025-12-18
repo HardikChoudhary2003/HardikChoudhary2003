@@ -5,12 +5,18 @@
 
 ## 🛠 Tech Stack
 
-![C++](https://img.shields.io/badge/C%2B%2B-blue?style=flat&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=flat&logo=mongodb)
-![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
+![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql)
+
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 <!--
 **HardikChoudhary2003/HardikChoudhary2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
