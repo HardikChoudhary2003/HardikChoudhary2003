@@ -1,20 +1,7 @@
-# Hi, I'm Hardik Choudhary👋
-
+                                                                     # Hi👋, I'm Hardik Choudhary
 🎓 B.Tech Student at IIT (BHU), Varanasi  
 💻 Interested in Web Development | MERN | Competitive Programming 
 📚 Preparing for Software Engineering roles  
-
-## 🚀 Skills
-- Languages: C++, JavaScript
-- Frontend: React, HTML, CSS
-- Backend: Node.js, Express
-- Tools: Git, GitHub
-
-## 📌 Projects
-- 🔹 Student Utilities Platform (Lost & Found, Buy & Sell)
-- 🔹 Healthcare Wellness Portal (MERN)
-
-## 📈 GitHub Stats
 
 ## 🛠 Tech Stack
 
