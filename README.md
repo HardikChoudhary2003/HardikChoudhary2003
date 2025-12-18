@@ -16,7 +16,14 @@
 
 ## 📈 GitHub Stats
 
+## 🛠 Tech Stack
 
+![C++](https://img.shields.io/badge/C%2B%2B-blue?style=flat&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=flat&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
 <!--
 **HardikChoudhary2003/HardikChoudhary2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
