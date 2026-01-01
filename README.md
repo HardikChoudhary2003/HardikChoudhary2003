@@ -1,12 +1,9 @@
 #                                                     Hi👋, I'm Hardik Choudhary
-## 🚀 About Me
-### Software Development | Full-Stack(MERN) & AI systems | Competitive Programmer
-I am a final-year undergraduate at IIT (BHU), actively preparing for **Software Development Engineer roles**.  
+I am a final-year undergraduate at IIT (BHU), Varanasi with strong interest in software/product development, problem solving, and competitive programming.   
 I enjoy building **reliable backend systems**, **full-stack applications**, and solving **algorithmically challenging problems**.
 
 - 🔹 Strong foundation in **DSA, OOPs, OS, and DBMS**
-- 🔹 Experience building **production-ready MERN applications**
-- 🔹 Solved **2000+ problems** across Codeforces, CodeChef, and LeetCode
+- 🔹 Experience building **production-ready MERN and AI-assited applications.**
 ---
 
 ## 🛠 Tech Stack
